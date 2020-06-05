@@ -1,3 +1,7 @@
+---
+layout: page
+title: "   "
+---
 # *Star Wars* 1977:  It's a Good Life
 
 It has been for long while fashionable among nerds to try to trace the influence of Joseph Campbell's *The Hero With a Thousand Faces* on 1977's *Star Wars*. *Star Wars* gets to sound a little more cultured and the speaker gets to try to look smart.
@@ -31,22 +35,24 @@ Leia (now obviously aware on some level of Luke's paranormal powers and how they
 
 We have a lot of thinly encoded patricides: Luke's original parents, Luke's aunt and Uncle, Luke's pseudo-uncle Obi-Wan Kenobi,  Darth Vader's injuries (Vader being a likely relative of Luke's- assuming the paranormal powers are somehow related to family), and the many pilots in Luke's adoptive rebel family.  We also have an ending straight out the *Twilight Zone*'s "It's a Good Life" ([1961](https://en.wikipedia.org/wiki/It's_a_Good_Life_(The_Twilight_Zone))).  Characters suspect Luke has extraordinary paranormal powers and great potential to harm them (either intentionally or subconsciously).
 
-<p style="text-align:center;"><img class="imageStyle" alt="angry_billy_mumy" src="files/angry_billy_mumy.png" /></p>
+<p style="text-align:center;"><img class="imageStyle" alt="angry_billy_mumy" src="files/angry_billy_mumy.png" width="400"/></p>
 
 The final *Star Wars* celebration is very much of the tone "It's *good* Luke blew up the Death Star.  Don't you think it is *good* Luke blew up the Death Star?"  Where poor mortal pawns are hoping to delay incurring Luke's wrath through copious praise.
 
 Luke's romantic attraction to Leia brings in elements of Star Trek's Charlie X ([1966](https://en.wikipedia.org/wiki/Charlie_X)). Luke doesn't so much blow up the Death Star to defeat the Empire (which had barely deployed this new unit), but to impress his current crush: Leia.
 
-<p style="text-align:center;"><img class="imageStyle" alt="Charles_Evans" src="files/charles_evans.jpg"  /></p>
+<p style="text-align:center;"><img class="imageStyle" alt="Charles_Evans" src="files/charles_evans.jpg"  width="400"/></p>
 
 At the end of *Star Wars 1977* Luke isn't going home to Tatooine, he hasn't learned much (despite what characters claim, his power is innate, not learned), and he has no wisdom to share with his fellow man.  We don't see any boons granted, just a lot of death.  At the end of *Star Wars 1977* just about anyone who could discipline Luke is dead (through his paranormal manipulation, either conscious or unconscious) and the few that are left are throwing a celebration in his honor to try and keep his favor.
 
-<p style="text-align:center;"><img class="imageStyle" alt="MEDAL" src="files/medal.jpg"  /></p>
+<p style="text-align:center;"><img class="imageStyle" alt="MEDAL" src="files/medal.jpg" width="400"  /></p>
 
 But how long can everybody think enough happy thoughts?
 
-<p style="text-align:center;"><img class="imageStyle" alt="Luke-Skywalker-Lightsaber-auction_planetxstudios" src="files/luke-skywalker-lightsaber-auction_planetxstudios.jpg"  /><br /><img class="imageStyle" alt="tz4" src="files/tz4.jpg"  /></p>
+<p style="text-align:center;"><img class="imageStyle" alt="Luke-Skywalker-Lightsaber-auction_planetxstudios" src="files/luke-skywalker-lightsaber-auction_planetxstudios.jpg" width="400"  /><br /><img class="imageStyle" alt="tz4" src="files/tz4.jpg" width="400"/></p>
 
 Found a cool "It's a Good Life" Luke mashup <a href="https://www.youtube.com/watch?v=YTymEgv-MK4" rel="self">here</a>.
 
-<p style="text-align:center;"><a href="http://www.comicsbeat.com/wp-content/uploads/2015/07/CLLD7OrUsAE-fWn.jpg-large.jpg" rel="external"><img class="imageStyle" alt="CLLD7OrUsAE-fWn.jpg-large" src="files/clld7orusae-fwn.jpg-large.jpg"  /></a></p>
+<p style="text-align:center;"><a href="http://www.comicsbeat.com/wp-content/uploads/2015/07/CLLD7OrUsAE-fWn.jpg-large.jpg" rel="external"><img class="imageStyle" alt="CLLD7OrUsAE-fWn.jpg-large" src="files/clld7orusae-fwn.jpg-large.jpg" width="400"  /></a></p>
+
+[Back to *John Mount's Fun Writing*](/JMWriting/)

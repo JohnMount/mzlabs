@@ -2,10 +2,17 @@
 # Theme Settings
 #
 
-theme: jekyll-theme-dinky
+theme: minima
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-dinky
 # theme                  : "minimal-mistakes-jekyll"
 
 # Site settings
 title: MZLabs
-description: John Mount and Nina Zumel
-logo: /assets/img/composite.jpg
+author: John Mount and Nina Zumel
+description: What we do besides Win Vector LLC
+
+# header bar (for minima theme)
+header_pages:
+ - JohnMount.md
+ - NinaZumel.md

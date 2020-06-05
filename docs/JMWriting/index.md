@@ -1,4 +1,8 @@
-## Fun Writing
+---
+layout: page
+title: John Mount's Fun Writing
+---
+
 
 Some little rants and essays from over the years. In no particular order.
 

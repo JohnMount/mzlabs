@@ -1,4 +1,7 @@
-# John Mount's "trouble free crab recipe"
+---
+layout: page
+title: John Mount's Trouble Free Crab Recipe
+---
 
 <p>
 John's "trouble free" steamed crab recipe (which makes a lie of the
@@ -29,3 +32,5 @@ Trouble free steamed crab.
 </p>
 
 Copyright John Mount
+
+[Back to *John Mount's Fun Writing*](/JMWriting/)

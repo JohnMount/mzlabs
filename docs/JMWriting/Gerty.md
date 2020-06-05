@@ -1,3 +1,8 @@
+---
+layout: page
+title: "  "
+---
+
 # Gerty, a character in Duncan Jones' *Moon*.
 
 I would like to comment on Duncan Jones' movie *Moon* and compare some elements of *Moon* to earlier science fiction.
@@ -35,3 +40,5 @@ For a provoking essay that might put **Glados** (from the video game *Portal*) i
 I feel Gerty adds an interesting note to the ideas explored by his antecedents.
 
 John Mount, mzlabs.com
+
+[Back to *John Mount's Fun Writing*](/JMWriting/)

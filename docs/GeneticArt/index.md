@@ -1,4 +1,7 @@
-# The Genetic Art Page
+---
+layout: page
+title: The Genetic Art Page
+---
 
 The genetic art page is based on the *International Genetic Art II* site (by John Mount, Scott Neal Reilly  and Michael Witbrock) which ran from 1994 through 1996.  This site, in turn, was inspired by the work of Scott Neal Reilly which itself drew inspiration from Karl Sims. *The International Genetic Art II* site was a very early example of CGI scripts and HTML forms (which at the time were the only methods available to produce interactive web pages). The central site allowed a consistent view (different users saw the same picture) and primitive collaboration (every user voted and votes affected everybody). Some of the best pictures were photo-reproduced and displayed in The Coffee Tree cafe in Pittsburgh PA. 
 

@@ -1,4 +1,7 @@
-## Publications
+---
+layout: page
+title: John Mount Publications
+---
 
 [Betting Best-Of Series](BestOf.pdf)<br>
 J. A. Mount<br>

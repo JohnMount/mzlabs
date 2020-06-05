@@ -1,0 +1,12 @@
+#
+# Theme Settings
+#
+
+theme: jekyll-theme-minimal
+#remote-theme                  : "minimal-mistakes-jekyll"
+#remote-theme                  : benbalter/retlab
+
+# Site settings
+title: MZLabs
+description: John Mount and Nina Zumel
+logo: /assets/img/composite.jpg
