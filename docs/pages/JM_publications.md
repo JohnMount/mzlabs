@@ -1,10 +1,12 @@
 ## Publications
 
+![](/assets/img/composite.jpg)
+
 [Betting Best-Of Series]({{ base_path }}/JMPubs/BestOf.pdf)<br>
 J. A. Mount<br>
 mzlabs.com      (2008)
 
-[Is Search Advertising a Market for Lemons?](/JMPubs/MarketForLemons.pdf)<br>
+[Is Search Advertising a Market for Lemons?](./JMPubs/MarketForLemons.pdf)<br>
 J. A. Mount<br>
 mzlabs.com      (2008)
 
