@@ -1,6 +1,6 @@
 ## Publications
 
-[Betting Best-Of Series](/JMPubs/BestOf.pdf)<br>
+[Betting Best-Of Series]({{ base_path }}/JMPubs/BestOf.pdf)<br>
 J. A. Mount<br>
 mzlabs.com      (2008)
 
