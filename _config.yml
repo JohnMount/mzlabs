@@ -5,5 +5,7 @@
 theme: jekyll-theme-minimal
 # theme                  : "minimal-mistakes-jekyll"
 
-# Site Settings
-title                    : "MZLabs"
+# Site settings
+title: MZLabs
+description: John Mount and Nina Zumel
+logo: /assets/img/composite.jpg
