@@ -8,4 +8,6 @@
 
    
 
-# [Nina Zumel](https://ninazumel.com)
+# Nina Zumel
+
+## [ninazumel.com](https://ninazumel.com)
