@@ -33,4 +33,4 @@ Trouble free steamed crab.
 
 Copyright John Mount
 
-[Back to *John Mount's Fun Writing*](./JMWriting/index.md) (tweak 2)
+[Back to *John Mount's Fun Writing*](./index.md) (tweak 3)
