@@ -6,6 +6,6 @@
 
 ## [Genetic Art](./GeneticArt/)
 
-
+   
 
 # [Nina Zumel](https://ninazumel.com)
