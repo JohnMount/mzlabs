@@ -3,8 +3,6 @@ layout: page
 title: Good Stationery as a Tool of Thought
 ---
 
-*TODO: see if I can recover the images*
-
 One of the very odd things about human intelligence is that it can be greatly amplified through the use of simple tools. 
 
 Some examples that seem uninteresting because they are so trivial are actually quite important, as they show how weak an untrained un-augmented  human mind is.  A simple shopping list overcomes Miller's observed short-term memory limit of "seven plus or minus two slots."  A couple of sheets of paper outperform any sort of "memory palace."  Writing down a thousand digits of Pi is a merely tedious task within the reach of anybody, not a feat of memorization requiring extensive practice.  Multiplying two 5 digit numbers is tedious using pencil and paper, but considered an astounding feat of mental arithmetic.
@@ -48,29 +46,29 @@ I use computers, the internet and the Wikipedia extensively every day.  But, the
 
 My day to day notebook is a soft 5 inch by 3.5 inch pocket notebook as shown below.  I use a mechanical pencil when out and about (no breakage or sharpening) and take a small eraser (in this case an eraser shaped like Lego).  This book is good for notes and ideas.  Notice I cross them out when I have acted on them in some way (done the work, or given up on the idea).  The goal of the daily notebook is to eventually throw it away (not save it).  So all work needs to move out and I need to be able to know it has been moved.
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://www.win-vector.com/blog/wp-content/uploads/2013/03/IMG_6229.jpg" alt="IMG 6229" title="IMG_6229.jpg" border="0" width="600" height="400" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="files/8e4ba-img_6229.jpg" alt="IMG 6229" title="IMG_6229.jpg" border="0" width="600" height="400" />
 
 While I can always have this notebook on me it is too small for large calculations or drafts.  For larger work I use a good composition book with a pencil, eraser and sharpener in a bandolier. 
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://www.win-vector.com/blog/wp-content/uploads/2013/03/IMG_6231.jpg" alt="IMG 6231" title="IMG_6231.jpg" border="0" width="600" height="251" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="files/a6a36-img_6231.jpg" title="IMG_6231.jpg" border="0" width="600" height="251" />
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://www.win-vector.com/blog/wp-content/uploads/2013/03/IMG_6232.jpg" alt="IMG 6232" title="IMG_6232.jpg" border="0" width="600" height="400" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="files/0c614-img_6232.jpg" alt="IMG 6232" title="IMG_6232.jpg" border="0" width="600" height="400" />
 
 For longer projects I switch to a sketch book with a couple of thick and thin mechanical pencils plus drawing chalk.  In additional to being able to work problems and take notes I can take drawing breaks which help restore the mind.   The point is to exploit the prepare then relax concept expressed so well in  Jacques Hadamard's "The Psychology of Invention in the Mathematical Field."
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://www.win-vector.com/blog/wp-content/uploads/2013/03/IMG_6233.jpg" alt="IMG 6233" title="IMG_6233.jpg" border="0" width="600" height="278" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="files/dc7e7-img_6233.jpg" alt="IMG 6233" title="IMG_6233.jpg" border="0" width="600" height="278" />
 
-Below is the 14 inch by 17 newsprint pad on a Mabef desk easel that I keep in my work area.  I use it for todo-lists, incidental notes and computation, much like you would use a traditional desk blotter.  It is also incredibly useful for <a target="_blank" href="http://en.wikipedia.org/wiki/Rubber_duck_debugging">rubber duck debugging</a> when alone, as I can take the Alvin clipboard down and write descriptions of what I am looking at (often enough to find problems or force ideas).  In this photo I am working through one of the steps in the <a target="_blank" href="http://www.win-vector.com/blog/2012/11/yet-another-java-linear-programming-library/">Win-Vector Linear Programming Library</a> (which itself started as a single-line notepad entry asking what was the smallest linear algebra library that could efficiently support linear programing).
+Below is the 14 inch by 17 newsprint pad on a Mabef desk easel that I keep in my work area.  I use it for todo-lists, incidental notes and computation, much like you would use a traditional desk blotter.  It is also incredibly useful for <a target="_blank" href="http://en.wikipedia.org/wiki/Rubber_duck_debugging">rubber duck debugging</a> when alone, as I can take the Alvin clipboard down and write descriptions of what I am looking at (often enough to find problems or force ideas).  In this photo I am working through one of the steps in the <a target="_blank" href="https://www.win-vector.com/blog/2012/11/yet-another-java-linear-programming-library/">Win-Vector Linear Programming Library</a> (which itself started as a single-line notepad entry asking what was the smallest linear algebra library that could efficiently support linear programing).
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://www.win-vector.com/blog/wp-content/uploads/2013/03/IMG_6228.jpg" alt="IMG 6228" title="IMG_6228.jpg" border="0" width="533" height="600" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="files/61f8f-img_6228.jpg" alt="IMG 6228" title="IMG_6228.jpg" border="0" width="533" height="600" />
 
 And I have the mini-notepad with pencil velcroed to it that I keep on my nightstand. I almost never write anything in it, but knowing it is there if I do want to remember something actually makes it easier to end the day (almost the opposite of an intrusion).
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://www.win-vector.com/blog/wp-content/uploads/2013/03/IMG_6234.jpg" alt="IMG 6234" title="IMG_6234.jpg" border="0"  height="300" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="files/c558d-img_6234.jpg" alt="IMG 6234" title="IMG_6234.jpg" border="0"  height="300" />
 
 Good stationary is a cheap vice.  A cheap pencil costs about a dime.  A good pencil costs about thirty cents.   A top grade drawing pencil (usually considered too good for writing) is only around $1.50.  Just for fun I show below an eraser in the shape of Ramen I picked up for a few coins. 
 
-<img style="display:block; margin-left:auto; margin-right:auto;" src="http://www.win-vector.com/blog/wp-content/uploads/2013/03/IMG_0219.jpg" alt="IMG 0219" title="IMG_0219.JPG" border="0"  height="250" />
+<img style="display:block; margin-left:auto; margin-right:auto;" src="files/68fb7-img_0219.jpg" alt="IMG 0219" title="IMG_0219.JPG" border="0"  height="250" />
 
 Increasing your use of tools without increasing your exposure to distractions is a great way to increase your abilities and get a lot more done.  We are used to buying tools to decrease the pain of unpleasant tasks (for example: a good structured XML editor I recently purchased has paid for itself many times over, but I still hate working with XML).   We need to get more used to buying tools that improve pleasant tasks and play to strengths.  The mind also craves variety, so you want to "over buy" and get a set of pencils, pens and notepads you can rotate through to prevent acclimatization.  Since stationery items are relatively cheap, they are good place to play the spendthrift.
 
