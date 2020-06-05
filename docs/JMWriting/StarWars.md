@@ -55,4 +55,4 @@ Found a cool "It's a Good Life" Luke mashup <a href="https://www.youtube.com/wat
 
 <p style="text-align:center;"><a href="http://www.comicsbeat.com/wp-content/uploads/2015/07/CLLD7OrUsAE-fWn.jpg-large.jpg" rel="external"><img class="imageStyle" alt="CLLD7OrUsAE-fWn.jpg-large" src="files/clld7orusae-fwn.jpg-large.jpg" width="400"  /></a></p>
 
-[Back to *John Mount's Fun Writing*](/JMWriting/)
+[Back to *John Mount's Fun Writing*](./index.md)

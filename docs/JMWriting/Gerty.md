@@ -41,4 +41,4 @@ I feel Gerty adds an interesting note to the ideas explored by his antecedents.
 
 John Mount, mzlabs.com
 
-[Back to *John Mount's Fun Writing*](/JMWriting/)
+[Back to *John Mount's Fun Writing*](./index.md)

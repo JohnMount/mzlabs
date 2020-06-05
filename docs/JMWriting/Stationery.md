@@ -74,4 +74,4 @@ Good stationary is a cheap vice.  A cheap pencil costs about a dime.  A good pen
 
 Increasing your use of tools without increasing your exposure to distractions is a great way to increase your abilities and get a lot more done.  We are used to buying tools to decrease the pain of unpleasant tasks (for example: a good structured XML editor I recently purchased has paid for itself many times over, but I still hate working with XML).   We need to get more used to buying tools that improve pleasant tasks and play to strengths.  The mind also craves variety, so you want to "over buy" and get a set of pencils, pens and notepads you can rotate through to prevent acclimatization.  Since stationery items are relatively cheap, they are good place to play the spendthrift.
 
-[Back to *John Mount's Fun Writing*](/JMWriting/)
+[Back to *John Mount's Fun Writing*](./index.md)

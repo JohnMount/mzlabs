@@ -17,4 +17,4 @@ Dear Levi and Strauss co.:
 
 Levi's 501s were the best valuable most durable jeans I found last time I comparison shopped (but that was a long time ago).  501s do not seem as durable as they once were, and I wonder if would actually come out on top in durability if I were to look again.  501's are incredibly popular jeans, imagine how much more popular they would be if they actually fit t<a href="http://www.census.gov/compendia/statab/2012/tables/12s0209.pdf" rel="external">he additional 10% of your potential adult male US customer base (those of us under 5'7")</a> (hey there is some free analytics/market-research for you).  Also jeans should be able to survive washing (especially in a modern no-agitator washer).  If this is a problem you may need to upgrade (or perhaps de-downgrade) the quality of denim you are using in your product (perhaps some tracking of your supplies and their practices would help there).  You also may not want to shrink your market by targeting smelly hipsters to the exclusion of the rest of us.
 
-[Back to *John Mount's Fun Writing*](/JMWriting/)
+[Back to *John Mount's Fun Writing*](./index.md)
