@@ -8,9 +8,9 @@ Some little rants and essays from over the years. In no particular order.
 A real-life culinary adventure from grad school. Originally posted to one of the university bboards, eventually appeared in one of the early issues of *Slow: the magazine of the slow food movement* (March 1996). Apparently they seeded the magazine early on by scraping the web; the article appeared just like this, eccentric punctuation and everything. I'm not sure the magazine still exists, but [the organization does](https://www.slowfood.com/).
 
 
-### Gerty: a character in Duncan Jones's *Moon*
+### [Gerty: a character in Duncan Jones's *Moon*](Gerty.md)
 
-A comparison of Gerty to earlier science fiction figures (including the obvious...).
+A comparison of Gerty to earlier science fiction AIs (including the obvious...).
 
 ### [Good Stationery as a Tool of Thought](Stationery.md)
 
