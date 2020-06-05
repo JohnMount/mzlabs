@@ -1,9 +1,11 @@
 # John Mount
 
-## [Publications with dot](./JMPubs/)
+## [Publications](./JMPubs/)
+
+## [Fun Writing](./JMWriting/)
 
 **Genetic Art**
 
-**Writing**
+
 
 # [Nina Zumel](https://ninazumel.com)
