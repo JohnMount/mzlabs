@@ -1,6 +1,6 @@
 # John Mount
 
-## [Publications](/JMPubs/)
+## [Publications](./JMPubs/)
 
 **Genetic Art**
 
