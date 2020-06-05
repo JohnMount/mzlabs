@@ -4,7 +4,7 @@
 
 ## [Fun Writing](./JMWriting/)
 
-**Genetic Art**
+## [Genetic Art](./GeneticArt/)
 
 
 
