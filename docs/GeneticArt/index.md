@@ -7,9 +7,7 @@ The Genetic Art Project was an experiment in algorithmic art, images "bred" from
 
 [**Read about the history of the Genetic Art Project**](history.md)
 
-Click on each thumbnail for a larger image.
-
-*TODO: slideshow still broken*
+Click a thumbnail for a larger image.
 
 <table>
 
