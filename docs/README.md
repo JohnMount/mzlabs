@@ -1,5 +1,3 @@
-Recreating the old *mzlabs.com* site. 
-
-A work in progress.
+A recreation (and updating) of the old *mzlabs.com* site. 
 
 
