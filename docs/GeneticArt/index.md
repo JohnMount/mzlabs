@@ -3,7 +3,7 @@ layout: page
 title: The Genetic Art Gallery
 ---
 
-The Genetic Art Project was an experiment in algorithmic art, images "bred" from other images. It was based on the *International Genetic Art II* site (by John Mount, Scott Neal Reilly  and Michael Witbrock) which ran from 1994 through 1996.  This site, in turn, was inspired by the work of Scott Neal Reilly which itself drew inspiration from Karl Sims.
+The Genetic Art Project was an experiment in algorithmic art, images "bred" from other images. It was based on the *International Genetic Art II* site (by John Mount, Scott Neal Reilly  and Michael Witbrock) which ran from 1994 through 1996.  This site, in turn, was inspired by the work of Scott Neal Reilly which itself drew inspiration from Karl Sims.  The current code can be found [here](https://github.com/JohnMount/Gart).
 
 [**Read about the history of the Genetic Art Project**](history.md)
 
