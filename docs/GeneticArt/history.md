@@ -21,7 +21,9 @@ The images displayed here come from a later version of the Genetic Art software 
 
 Here's [an article from the *Win Vector blog*](https://win-vector.com/2009/06/01/what-is-genetic-art/) about the history of this project and the principles behind the "breeding rules." Most of the interesting patterns come from the properties of an interesting number system called the "Quaternions."
 
-The Java version of the Genetic Art Project isn't online anymore. Maybe someday, I will resurrect the code again.
+The Java version of the Genetic Art Project isn't online anymore, but the current code for it can be found [on Github](https://github.com/JohnMount/Gart). Here's a video of the code in action:
+
+<p style="text-align:center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/5_mP_YWIKEY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 I also experimented with "genetic movies."  Though, at the time they were too computationally expensive to allow direct voting on movies.
 
