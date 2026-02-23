@@ -168,7 +168,7 @@ LLMs vastly under-perform many already existing AIs. LLMs look great if they can
 <h2>You wouldn't say that to the singularity</h2>
 
  <p/>
-One of the claimed LLM threat is: they will very soon be able to usefully re-design themselves. This would then trigger a <a href="https://en.wikipedia.org/wiki/Technological_singularity">technological singularity</a>, as improved LLMs could then design even more improved LLMs. The assumed ability to improve would be proportional to the abilities of the AI leading to an exponential explosion in AI ability. In fact <a href="https://www.anthropic.com/engineering/AI-resistant-technical-evaluations">Anthropic shares an article that would imply this has already happened</a>.
+One of the claimed LLM threats is: they will very soon be able to usefully re-design themselves. This would then trigger a <a href="https://en.wikipedia.org/wiki/Technological_singularity">technological singularity</a>, as improved LLMs could then design even more improved LLMs. The assumed ability to improve would be proportional to the abilities of the AI leading to an exponential explosion in AI ability. In fact <a href="https://www.anthropic.com/engineering/AI-resistant-technical-evaluations">Anthropic shares an article that would imply this has already happened</a>.
 
  <p/>
 However, I think don't this is the case. This is, as above, claiming success from other fields that LLMs are not able to adopt. And it again taps the insidious <a href="https://en.wikipedia.org/wiki/Roko%27s_basilisk">Roko's basilisk</a> "you better be nice to me before the tipping point" argument.
