@@ -27,3 +27,9 @@ My theory about the beginning of the Luke Skywalker saga.
 ### [Consumers Value Washing Their Jeans](jeans.md)
 
 Fortunately, Levis doesn't use this circa 2014 ad campaign anymore. Do they?
+
+
+### [We're Cooked, Personal Musing on LLM-bros](WeAreCookedLLMs.md)
+
+LLM-bros are doing a lot of damage, let's unwind it a little.
+
