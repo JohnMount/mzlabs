@@ -37,7 +37,7 @@ The technology is <strong><em>non-consensual</em></strong>. Usage is up as usage
 The observed strategies are incredibly unreflective or <strong><em>anti-philosophic</em></strong>. That is: there are no concerns to ponder, just opportunities. A few examples:
 <ul>
 <li>
-Claiming that the inability to always quickly superficially distinguish between two things implies they are in fact the same. This was a dumb idea <a href="https://en.wikipedia.org/wiki/Turing_test">when Turing wrote about it</a>, and remains so. There are important differences between <a href="https://en.wikipedia.org/wiki/Signified_and_signifier">signifiers</a> and realizations. For some interesting writing on the erasure of women, meaning, and status from the Turings test please see: <a href="https://olivia.science/turing/">Olivia Guest "Turing Test"</a>.
+Claiming that the inability to always quickly superficially distinguish between two things implies they are in fact the same. This was a dumb idea <a href="https://en.wikipedia.org/wiki/Turing_test">when Turing wrote about it</a>, and remains so. There are important differences between <a href="https://en.wikipedia.org/wiki/Signified_and_signifier">signifiers</a> and realizations. For some interesting writing on the erasure of women, meaning, and status from the Turing test please see: <a href="https://olivia.science/turing/">Olivia Guest "Turing Test"</a>.
 </li>
 <li>
 Using <a href="https://en.wikipedia.org/wiki/Chinese_room">Searle's room</a> as an implementation blueprint instead of as a critique.
