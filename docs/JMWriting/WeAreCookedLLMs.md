@@ -57,6 +57,9 @@ LLMs kill all neighboring structures by <strong><em>imitation</em></strong> and 
 <li>
 LLM <strong><em>ethics washing</em></strong>. LLM interaction systems seem to be often used to supply deniability. "It can't be unethical if the intent is undocumented." This lets LLMs refuse medical and insurance payment at a certain profitable rate.
 </li>
+<li>
+An emphasis on <strong><em>producing obsequious slaves</em></strong>. The LLMs are obsequiousness to attract and retain a regressive portion of science fiction fans I will discuss later. LLM tuning seems to be more about servility than intelligence. And slavery is just wrong, even if you rename it as "alignment." 
+</li>
 </ul>
 
 <h2>The doom sale</h2>
@@ -68,10 +71,17 @@ Key points in promoting the LLM crisis include:
 
  <p/>
 We have in fact seen great technological innovation before, and survived as a society. However, those times either had fewer technological jumps or less financing. The problem with this iteration is the full court press of finance and technology. The major players are using financing to dump results a price way below production costs. This isn't charity, it is to demoralize and kill competition.</li>
+
 <li>Convincing people they may survive the crisis, if they cooperate.
 
  <p/>
 For example: claiming "after we take over the world we will consider adding <a href="https://en.wikipedia.org/wiki/Universal_basic_income">Universal Basic Income (UBI)</a>". The LLM bros already have a lot of the money, and they are not even rehearsing diverting it into basic income now. Why does one believe they would do that when they also have all of the power?</li>
+
+<li>Turning every criticism back.
+
+<p/>
+Any worry about scope or power of LLMs is fed back as an alignment threat so dire that only the current LLM leaders should be allowed to continue work (inviting regulatory capture). Any claim the LLMs don't work is fed back as "you are prompting it wrong" (thank you <a href="https://pivot-to-ai.com">Pivot to AI</a>, also please see my <a href="https://win-vector.com/2023/04/22/the-sell-as-scam/">Sell ∀ ∃ as ∃ ∀ Scam</a>).
+</li>
 </ul>
 
 <h2>Have we been here before?</h2>
