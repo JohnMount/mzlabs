@@ -18,7 +18,7 @@ A comparison of Gerty to earlier science fiction AIs (including the obvious...).
 
 ### [Good Stationery as a Tool of Thought](Stationery.md)
 
-The advantages of old-school, quality pen-and-paper over keyboard for creative tasks. Written in 2013. Kind of a companion piece to Nina Zumel's [*I Write, Therefore I Think*](https://ninazumel.com/2012/10/11/i-write-therefore-i-think/).
+The advantages of old-school, quality pen-and-paper over keyboard for creative tasks. Written in 2013. Kind of a companion piece to Nina Zumel's [*I Write, Therefore I Think*](https://ninazumel.com/blog/2012-10-11-i-write-therefore-i-think/).
 
 ### [*Star Wars*: It's a Good Life](StarWars.md)
 
