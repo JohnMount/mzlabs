@@ -18,7 +18,7 @@ In the other direction Socrates quotes Thamus in Plato's dialogue "Phaedrus" imp
 </blockquote>
 <br>
 
-However, I feel writing is a lever, not a crutch.  I lean more towards Nina Zumel's <a target="_blank" href="http://ninazumel.com/2012/10/11/i-write-therefore-i-think/">I Write, Therefore I Think</a>.
+However, I feel writing is a lever, not a crutch.  I lean more towards Nina Zumel's <a target="_blank" href="https://ninazumel.com/blog/2012-10-11-i-write-therefore-i-think/">I Write, Therefore I Think</a>.
 
 The difference in ability with and without augmentation is so large you are forced to say either raw untrained un-augmented human intelligence is fairly low or augmented human intelligence is quite high.   The difference is so large I don't think it makes sense to say the two ability levels are comparable, one is not just an atrophied analogue of the other.  You can train to be better without augmentation (and perhaps that is a good ability improving exercise), but you will always perform at an entirely different scale with augmentation.
 
